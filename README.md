@@ -11,6 +11,6 @@ There is a fully developed package called **PyMC3** that concerns the probabilis
 
 Thus, a more convenient way to know the age of abalone is to estimate it using other physical measurement such as weight, length, diameter etc. 
 
-**In this small project, I use the data of abalone which includes their different physical measurement and rings, so as I can use a linear bayesian model to investigate the relation between the age (i.e rings) and a set of other covariates.** 
+In this small project, I use the data of abalone which includes their different physical measurement and rings, so as I can use a linear bayesian model to investigate the relation between the age (i.e rings) and a set of other covariates. 
 
 The data is from Kaggle(a platform for predictive modelling and analytics competitions), you can download it at https://www.kaggle.com/rodolfomendes/abalone-dataset/version/3#
